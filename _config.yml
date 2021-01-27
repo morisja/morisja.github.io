@@ -1,3 +1,5 @@
 theme: jekyll-theme-midnight
 title: morisja
 description: morisja
+github:
+  is_project_page: false
