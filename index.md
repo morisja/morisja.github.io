@@ -1,9 +1,21 @@
 # morisja home
 
+## chatgpt
+[experiments](chatgpt) with chatgpt
+
+## sonos
+Work in progress to build a hardware sonos controller.
+[python](https://github.com/morisja/sonopi)
+
 ## m5stack
 [my projects](https://github.com/morisja/m5stack)
 
-## tiktok chefs
-[sad_papi](https://www.tiktok.com/@sad_papi?lang=en)
+## python
+[simple examples](https://github.com/morisja/python-examples)
 
-[thatdudecancook](https://www.tiktok.com/@thatdudecancook?lang=en)
+[actions json generator](https://github.com/morisja/actions)
+
+### things i like
+https://github.com/hpsaturn/airobot
+ 
+

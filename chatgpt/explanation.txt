@@ -1,0 +1,3 @@
+In this version of the program, strings is initially set to NULL, indicating that it doesn't yet point to any memory. As strings are entered by the user, the program dynamically allocates memory using realloc() to increase the size of the strings array if necessary. The maximum number of strings max_num_strings is initially set to 10, but it can be increased as needed by doubling its value each time the array needs to be reallocated.
+
+After all the strings have been entered, the program prints them out and then frees the memory used by each string and the strings array itself using free().
