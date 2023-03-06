@@ -42,9 +42,9 @@ int main()
 
     return 0;
 }
-
-
 ```
+
+Refactor with a single natural language command .. wow!
 
 ![Image](screen2.png)
 ```
