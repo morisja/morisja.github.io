@@ -1,5 +1,8 @@
 # morisja home
 
+## debian
+[packaging](debian-packages) with with gbp and cowbuilder
+
 ## chatgpt
 [experiments](chatgpt) with chatgpt
 
