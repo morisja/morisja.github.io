@@ -107,3 +107,7 @@ jamesm@x1:~/src/jq$ git add debian/
 jamesm@x1:~/src/jq$ git commit -m release
 
 ```
+
+More details on cowbuilder
+
+https://wiki.debian.org/cowbuilder
