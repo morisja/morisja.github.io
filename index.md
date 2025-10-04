@@ -1,5 +1,8 @@
 # morisja home
 
+## south of france
+A write up of our recent [trip](france)
+
 ## debian
 [packaging](debian-packages) with with gbp and cowbuilder
 
