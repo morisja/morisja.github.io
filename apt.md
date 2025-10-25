@@ -5,27 +5,36 @@
 
 [Here](https://streeteasy.com/building/360-west-21-street-new_york/3g?utm_campaign=sale_listing&utm_medium=share&utm_source=web&lstt=M-WLhhhkBv2DHhriX2D3qiqrz6M8GYV4c9LufnnLaRZKgm_OOXgJ6ZNF5r5Kaygwa4HcaN5nMQMWYw5X) is the original streeteasy listing.
 
-Spacious with huge kitchen and tons of storage in kitchen and living room; bedroom includes 2 large build in closets with additional storage above.
+Overview
 
+- Beautiful Chelsea apartment featuring high ceilings and approximately 750 sq ft of thoughtfully designed living space with built-in storage throughout. Enjoy access to a shared private back garden, perfect for summer entertaining, complete with BBQs for residents’ use. Laundry facilities are conveniently located in the basement.
 
-The place is pretty much the same, kitchen has been renovated with marble counter tops and subway tiles.
+- Ideally situated on the corner of 21st Street and 9th Avenue, the apartment is surrounded by great coffee shops, restaurants, and gyms, all within a few blocks. It’s less than a five-minute walk to the A, C, and E subway lines, just one stop to Penn Station. The neighborhood is warm, friendly, and full of Chelsea charm. Dog-friendly building as well!
 
-Walls are now light grey with white trim, ceiling spot lights and lutron lights so they can be controlled via apple home. 
+- The apartment has been recently updated with light grey walls, white trim, ceiling spotlights, and smart lighting compatible with Apple Home. Both rooms include air conditioners controllable via phone app for extra convenience.
 
-Air conditioners in both rooms can also be controlled by a phone app.
+- This is a co-op building, and you’ll be renting directly from the owner. Renters are required to complete a board package (submitted online). Reviews are typically prompt, but applicants should allow about one month from submission to approval.
 
-Amazing shared garden space perfect for summer entertaining.
+Kitchen
 
-The building is a coop, renters require a board package which can be filled out online with fairly prompt review but budget a month from application to approval.
+- A bright, efficient kitchen with ample upper and lower cabinet storage, marble countertops, gas stove, microwave, refrigerator, and a classic white subway-tile backsplash.
 
-Rent is $5500/month with one months deposit; lease is renewed each year per the board.
+Bedroom
 
-Other fees:
-- Credit check $125
-- Management admin $600
-- Move in fee $50
-- Move in deposit $1000
+- The spacious bedroom comfortably fits a queen bed and two dressers, and features large built-in closets with additional overhead storage. Two garden-facing windows fill the room with natural light and make it wonderfully quiet and cool in the evenings.
 
+Details
+
+- Rent: $5,500/month
+- Security Deposit: One month’s rent
+- Lease: Annual renewal, subject to board approval
+
+Fees
+
+- Credit Check: $125
+- Management/Admin Fee: $600
+- Move-In Fee: $50
+- Refundable Move-In Deposit: $1,000
 
 Contact morisja (at) gmail
 
