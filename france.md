@@ -29,7 +29,7 @@ We took a one way rental from Perpignan to Nice which cost about 650 Euro. I use
 
 We got an MG3 EV Hybrid which was excellent. Cost us around $80 in gas for the entire trip. I would not hesitate to rent one again.
 
-For the first couple of nights we stayed at  https://www.hotel-lesmouettes.com/ which was great. We visited Colliore one evening.
+For the first couple of nights we stayed at [Les Mouettes](https://www.hotel-lesmouettes.com/) which was great. We visited Colliore one evening.
 
 Tips:
 - buy water in 6x1L packages - we needed it
@@ -39,16 +39,19 @@ Tips:
 
 Sete was very nice, with long beautiful sand beaches
 
-We stayed here - which was nice but probably the smallest Airbnb we have ever been to
-https://www.airbnb.com/rooms/1207176217262235119
+We stayed here - which was nice but probably the smallest Airbnb we have ever been to:
+
+[listing](https://www.airbnb.com/rooms/1207176217262235119)
 
 Spent a day here, which for 13 Euro beach lounger rental was exceptional value
-https://www.facebook.com/La.Praia.Bar.Restaurant/
+
+[La Praia](https://www.facebook.com/La.Praia.Bar.Restaurant/)
 
 ## Sete to Saint Marie de-la-mer
 
 SMDLR is a beachfront town with a number of outdoor activities. We rented electric bikes for a day and cycled the coast and wetlands.
-https://www.airbnb.com/rooms/1208493447409625343
+
+[listing](https://www.airbnb.com/rooms/1208493447409625343)
 
 ## Sainte Marie de-la-mer to Provence
 
@@ -58,22 +61,25 @@ Provence was the most city location we stayed at. It was ok, but very touristy a
 
 La Ciotat was the hidden gem of the entire trip. We stayed here in the centre of the town
 
-https://www.airbnb.com/rooms/1138299275126195188
+[listing](https://www.airbnb.com/rooms/1138299275126195188)
 
-Took advantage of the boat tour recommended by the owners and enjoyed the relaxed vibe of the entire town.
+Took advantage of the boat tour recommended by the owners and enjoyed the relaxed vibe of the entire town; random live music on street corners, courtyards filled with tables at lunch time and kids running around in the evening.
 
 Of all the locations, we would have stayed here the longest
 
 ## La Ciotat to Frejus
 
 Frejus is classic seaside town. Our Airbnb was a couple of streets from the beach.
-https://www.airbnb.com/rooms/1043339232424205727
+
+[listing](https://www.airbnb.com/rooms/1043339232424205727)
+
+It was very touristy but nice.
 
 ## Frejus to Nice
 
 In Nice we had a beautiful Airbnb, on the second floor of a busy street with big doors permitting evening wine drinking and people watching.
 
-https://www.airbnb.com/rooms/1446460929164988106
+[listing](https://www.airbnb.com/rooms/1446460929164988106)
 
 ## Leaving France
 
@@ -81,4 +87,4 @@ We left to continue the trip via Sicily for a wedding, but Nice Airport had many
 
 ## Other resources
 
-The website "Flights From" https://www.flightsfrom.com/ was invaluable for understanding airport options and schedules.
+The website [Flights From](https://www.flightsfrom.com/) was invaluable for understanding airport options and schedules.

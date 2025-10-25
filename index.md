@@ -1,5 +1,9 @@
 # morisja home
 
+## rent my apartment
+My apartment in chelsea is [available](apt)
+
+
 ## south of france
 A write up of our recent [trip](france)
 
