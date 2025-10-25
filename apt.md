@@ -7,6 +7,7 @@
 
 Spacious with huge kitchen and tons of storage in kitchen and living room; bedroom includes 2 large build in closets with additional storage above.
 
+
 The place is pretty much the same, kitchen has been renovated with marble counter tops and subway tiles.
 
 Walls are now light grey with white trim, ceiling spot lights and lutron lights so they can be controlled via apple home. 
@@ -15,9 +16,15 @@ Air conditioners in both rooms can also be controlled by a phone app.
 
 Amazing shared garden space perfect for summer entertaining.
 
-The building is a coop, renters require a board package which can be filled out online with fairly prompt review.
+The building is a coop, renters require a board package which can be filled out online with fairly prompt review but budget a month from application to approval.
 
 Rent is $5500/month with one months deposit; lease is renewed each year per the board.
+
+Other fees:
+- Credit check $125
+- Management admin $600
+- Move in fee $50
+- Move in deposit $1000
 
 
 Contact morisja (at) gmail
