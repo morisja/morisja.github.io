@@ -21,6 +21,9 @@ Barcelona was great, clean, walkable, could rent Lime bicycles with the Uber app
 
 If we had not secured 2pm check in, I would have used the DayUse app and booked a hotel for the day. I had looked into this before arriving but was a little put off by how far the available properties were from our actual hotel. Looking back this was not a concern as the place is so walkable with good transport options.
 
+## Overall route
+[Google Maps Links](https://maps.app.goo.gl/n6DXE8bggtNWwYbe9)
+
 ## Barcelona to Perpignan
 
 A TGV runs from Barcelona to Paris daily around 9:30am. We took a taxi from our hotel to the main station (9 Euros) and 1.5h later were in Perpignan, followed by a quick taxi to the Europcar office near the airport.
