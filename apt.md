@@ -11,7 +11,7 @@ Overview
 
 - Beautiful Chelsea apartment featuring high ceilings and approximately 750 sq ft of thoughtfully designed living space with built-in storage throughout. Enjoy access to a shared private back garden, perfect for summer entertaining, complete with BBQs for residents’ use. Laundry facilities are conveniently located in the basement.
 
-- Ideally situated on the corner of 21st Street and 9th Avenue, the apartment is surrounded by great coffee shops, restaurants, and gyms, all within a few blocks. It’s less than a five-minute walk to the A, C, and E subway lines, just one stop to Penn Station. The neighborhood is warm, friendly, and full of Chelsea charm. Dog-friendly building as well!
+- Ideally situated on the corner of 21st Street and 9th Avenue, the apartment is surrounded by great coffee shops, restaurants, and gyms, all within a few blocks. It’s less than a five-minute walk to the 1,2,3,A,C, and E subway lines, just one stop to Penn Station; also close to PATH. The neighborhood is warm, friendly, and full of Chelsea charm. Dog-friendly building as well!
 
 - The apartment has been recently updated with light grey walls, white trim, ceiling spotlights, and smart lighting compatible with Apple Home. Both rooms include air conditioners controllable via phone app for extra convenience.
 
@@ -23,7 +23,7 @@ Kitchen
 
 Bedroom
 
-- The spacious bedroom comfortably fits a queen bed and two dressers, and features large built-in closets with additional overhead storage. Two garden-facing windows fill the room with natural light and make it wonderfully quiet and cool in the evenings.
+- The spacious bedroom comfortably fits a queen bed and two dressers, and features two large built-in closets with additional overhead storage. Two garden-facing windows fill the room with natural light and make it wonderfully quiet and cool in the evenings.
 
 Details
 
