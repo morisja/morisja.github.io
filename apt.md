@@ -1,9 +1,6 @@
-# Rent my apartment
+# west 21st & 9th ave nyc - 1bed - $5500
 
 2025-10-26
-
-360 west 21st street, corner of 9th ave, NYC
-
 
 [Here](https://streeteasy.com/building/360-west-21-street-new_york/3g?utm_campaign=sale_listing&utm_medium=share&utm_source=web&lstt=M-WLhhhkBv2DHhriX2D3qiqrz6M8GYV4c9LufnnLaRZKgm_OOXgJ6ZNF5r5Kaygwa4HcaN5nMQMWYw5X) is the original streeteasy listing.
 
